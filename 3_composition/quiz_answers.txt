@@ -1,0 +1,17 @@
+Quiz
+What kind of relationship do you think each of these is?
+
+Computer & CPU.
+Answer - Composition
+
+Circle & Shape.
+Answer - Inheritance
+
+Triangle & Sides
+Answer - Composition
+
+Laptop & Computer.
+Answer - Inheritance
+
+Chair & Legs
+Answer - Composition
